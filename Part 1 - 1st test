@@ -1,1 +1,2 @@
 <a href="#" data-rb-event-key="#" class="d-lg-none nav-link" role="button"><i class="fa fa-search" aria-hidden="true"></i></a>
+document.querySelector("#root > div > main > section.px-4.text-white.suggestedTitlesBody > div.main-content-wrapper")
